@@ -1,0 +1,2 @@
+[console_scripts]
+daac = daac.programs:main
