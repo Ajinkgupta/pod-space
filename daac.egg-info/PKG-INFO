@@ -1,8 +1,0 @@
-Metadata-Version: 2.1
-Name: daac
-Version: 0.1
-Summary: A package to echo contents of programs.py to clipboard
-Author: Your Name
-Author-email: your.email@example.com
-Requires-Python: >=3.6
-Requires-Dist: pyperclip
